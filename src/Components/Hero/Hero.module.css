@@ -1,0 +1,43 @@
+.wrapper {
+  background-image: url("./../../assets/Image/Shapes.png");
+  background-repeat: no-repeat;
+  background-position: bottom right;
+  padding: 64px 0 40px;
+}
+
+.left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.left h1 {
+  font-size: 96px;
+  font-weight: bold;
+  color: #fff;
+  text-transform: capitalize;
+  margin-bottom: 8px;
+}
+
+.left h3 {
+  font-size: 40px;
+  font-weight: bold;
+  text-transform: capitalize;
+  color: #fff;
+  margin-bottom: 24px;
+}
+
+.left p {
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.left-bottom {
+  margin-top: 24px;
+}
+
+.iPhone {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

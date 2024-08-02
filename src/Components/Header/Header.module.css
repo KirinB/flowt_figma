@@ -1,0 +1,30 @@
+.wrapper {
+  display: flex;
+  justify-content: space-between;
+  margin: 24px 0;
+}
+
+.left {
+  display: flex;
+  color: #fff;
+}
+
+.logo {
+  font-size: 40px;
+  font-weight: bold;
+  line-height: 1.1;
+  margin-right: 48px;
+}
+
+.left ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left li {
+  margin-right: 48px;
+  padding: 8px 0;
+  cursor: pointer;
+}
